@@ -54,18 +54,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saturdyyyy/Saturdyyyy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saturdyyyy/Saturdyyyy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saturdyyyy/Saturdyyyy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/uq5r5b6qb1mlwaxcfpa5twrhg">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=uq5r5b6qb1mlwaxcfpa5twrhg&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
+
+
+    
